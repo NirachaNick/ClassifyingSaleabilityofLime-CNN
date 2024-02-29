@@ -1,5 +1,5 @@
-# ClassifyingSaleabilityofLime-CNN
-Independent study: Classifying Saleability of Lime by Using CNN.// 
+# Independent study: Classifying Saleability of Lime by Using CNN.
+
 Nowadays, there are many applications that have been used in agriculture field to
 facilitate human workers. Many researches have been focused on fruits grading based on
 appearance features. Since lime is one of Thai economic corp that have high demand and
